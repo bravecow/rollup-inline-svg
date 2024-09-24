@@ -15,7 +15,7 @@
 	"devDependencies": {
 		"eslint": "8.56.0",
 		"eslint-config-ecmascript": "2.6.0",
-		"rollup": "4.9.1"
+		"rollup": "4.22.4"
 	},
 	"peerDependencies": {
 		"rollup": "^3.0.0||^4.0.0"
